@@ -8,4 +8,3 @@ date: 2022-11-03
 location: "Seattle, WA, USA"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.

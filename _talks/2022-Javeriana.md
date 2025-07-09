@@ -7,5 +7,4 @@ venue: "Department of Clinical Epidemiology and Biostatistics seminar, Pontifici
 date: 2022-07-14
 location: "Online"
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+[YouTube link](https://www.youtube.com/watch?v=WfwPwbr4F6U)

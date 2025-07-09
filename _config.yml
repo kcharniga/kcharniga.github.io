@@ -12,10 +12,7 @@ site_theme               : "default"
 title                    : "Kelly Charniga"
 title_separator          : "-"
 name                     : &name "Kelly Charniga"
-description              : &description "I am a Postdoctoral Researcher in the Mathematical Modeling of Infectious Diseases Unit at Institut Pasteur. I have worked on the transmission of West Nile virus in Algeria and the emergence of new variants of SARS-CoV-2 in France and the world.
-Previously, I was a Prevention Effectiveness Fellow (Analytics and Modeling Track) in the Poxvirus and Rabies Branch at the U.S. Centers for Disease Control and Prevention. 
-Before that, I was a PhD student at Imperial College London under the supervision of Christl Donnelly and Pierre Nouvellet, an MPH student at the University of Michigan, 
-and an undergraduate student at Madonna University. I like doing science outreach, learning languages, and training in Olympic weightlifting."
+description              : &description ""
 url                      : https://kcharniga.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_kelly_dog.png"
+  avatar           : "headshot_kelly_dog2.JPG"
   name             : "Kelly Charniga"
   pronouns         : # example: "she/her"  
-  bio              : "Infectious disease epidemiologist/modeler"
+  bio              : "Infectious Disease Epidemiologist"
   location         : "Paris, France"
   employer         : "Institut Pasteur"
   uri              : # URL
@@ -37,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=OKbTKFUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7648-7041"
   semantic         : # URL
   pubmed           : #
   researchgate     : # URL
@@ -54,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "kcharniga" # Replace this with you Bluesky username
+  bluesky          : "kcharniga.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -94,7 +91,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true      #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -234,17 +231,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -270,15 +256,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

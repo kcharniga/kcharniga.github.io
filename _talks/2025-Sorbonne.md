@@ -8,4 +8,3 @@ date: 2025-03-06
 location: "Paris, France"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
