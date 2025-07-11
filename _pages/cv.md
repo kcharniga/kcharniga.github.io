@@ -22,7 +22,6 @@ Work experience
   * Projects include: 
     * Transmission of West Nile virus in Algeria 
     * Emergence of new variants of SARS-CoV-2 in France and globally
-  * Supervisor: Simon Cauchemez
 
 * 2021-2023: Prevention Effectiveness Fellow (Analytics and Modeling Track)  
   * Poxvirus and Rabies Branch, U.S. Centers for Disease Control and Prevention, Atlanta, GA, USA
@@ -30,7 +29,6 @@ Work experience
     * 2022 Multinational Mpox Response
     * Developing a tool for rabies exposure risk assessments
     * Studying the transmission potential of mpox in DRC
-  * Supervisor: Yoshinori Nakazawa
 
 * 2017-2021: PhD student
   * Imperial College London, London, UK
