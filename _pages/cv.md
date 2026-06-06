@@ -17,9 +17,12 @@ Education
 
 Work experience
 ======
-* 2023-present: Postdoctoral researcher
+* 2026-present: Public Health Officer (Modelling)
+  * Communicable Diseases Agency of Singapore
+
+* 2023-2026: Postdoctoral researcher
   * Mathematical Modeling of Infectious Diseases Unit at Institut Pasteur, Paris, France
-  * Projects include: 
+  * Projects included: 
     * Transmission of West Nile virus in Algeria 
     * Emergence of new variants of SARS-CoV-2 in France and globally
 
@@ -76,14 +79,14 @@ Teaching
   
 Service and leadership
 ======
-* Co-organizer of epinowcast community seminars: monthly online meetings on real-time modeling of infectious diseases (since Sep 2023)
+* Co-organizer of epinowcast community seminars: monthly online meetings on real-time modeling of infectious diseases (Sep 2023-Feb 2026)
 * Peer-reviewer for the following journals: The Journal of Infectious Diseases, BMC Infectious Diseases, Emerging Infectious Diseases, Communications Medicine, Pre-publication Support Service (PREPSS), PLOS Computational Biology, PLOS Neglected Tropical Diseases, PLOS Digital Health
 * Volunteer on a CDC Objective Review Panel (reviewing grants for funding)
 * Co-chaired the Global Health Security and (Re-) Emerging Infectious Diseases session at the 2022 Annual Meeting of the ASTMH
 
 Science outreach and media
 ======
-* Since 2024: Member of the StaPa outreach committee  
+* 2024-2026: Member of the StaPa outreach committee  
   * StaPa is the young researchers' association at Institut Pasteur
   * Plan science outreach events led by PhD students and postdocs
 * 2025: Nuit Blanche (7 hours)
