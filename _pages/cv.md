@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2026-present: Public Health Officer (Modelling)
-  * Communicable Diseases Agency of Singapore
+  * Advanced Methods and Analytics Division, Communicable Diseases Agency of Singapore, Singapore
 
 * 2023-2026: Postdoctoral researcher
   * Mathematical Modeling of Infectious Diseases Unit at Institut Pasteur, Paris, France

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Public Health Officer** (Modelling) at the Communicable Diseases Agency (CDA) of Singapore.
+I am a **Public Health Officer** (Modelling) in the Advanced Methods and Analytics Division at the Communicable Diseases Agency (CDA) of Singapore.
 I use mathematical and statistical models to understand the spread of infectious diseases and the impact of interventions on that spread.
 Previously, I was a **Postdoctoral Researcher** in the Mathematical Modeling of Infectious Diseases Unit at Institut Pasteur in Paris, France.
 Before that, I was a **Prevention Effectiveness Fellow** (Analytics and Modeling Track) in the Poxvirus and Rabies Branch at the U.S. Centers for Disease Control and Prevention.
